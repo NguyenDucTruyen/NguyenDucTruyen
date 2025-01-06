@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NguyenDucTruyen (DucTruyen)</h1>
 <h3 align="center">A passionate Frontend developer from Danang, Vietnam</h3>
 
-<p align="left">
+<p align="center">
 	<img
 		src="https://komarev.com/ghpvc/?username=nguyenductruyen&label=Profile%20views&color=0e75b6&style=flat"
 		alt="nguyenductruyen"
@@ -16,7 +16,7 @@
 	/></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 	<a href="https://linkedin.com/in/nguyenductruyen" target="blank">
 		<img
@@ -28,7 +28,7 @@
 	/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img
